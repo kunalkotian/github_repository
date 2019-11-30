@@ -1,3 +1,3 @@
 # github_repository
  this is github repository
- this is github for the the batch of november.
+ this is github for the the class of november.
