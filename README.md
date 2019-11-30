@@ -3,4 +3,5 @@
  this is github for the the class of november.
  hello 
  wassup
- import numpy as np
+ import numpy as np 
+ good morning
